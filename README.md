@@ -52,4 +52,12 @@ y pulsa el botón para ver un número aleatorio entre 1 y 10.
    - Ramas trabajadas: feature-david
    - Referencias: https://docs.github.com/es
    
+## Aportación de José Luis
+
+- Nombre completo: José Luis Ramírez Barrios
+- Usuario Github: JoseRamirezB
+- Rol dentro del equipo: Manager
+- Ramas en las que he trabajado: feature-JoseLuis
+- Referencias consultadas: https://docs.github.com/es
+
 Desarrollado por: **José Luis, Ángeles y David**
