@@ -1,0 +1,14 @@
+{
+  "name": "numero-1-10",
+  "version": "1.0.0",
+  "description": "Demo Node.js + Express que muestra un número aleatorio del 1 al 10",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
