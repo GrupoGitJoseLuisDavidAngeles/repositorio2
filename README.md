@@ -45,6 +45,13 @@ y pulsa el botón para ver un número aleatorio entre 1 y 10.
 - El endpoint `/number` devuelve JSON con la forma `{ "number": 7 }`.
 - No se guardan registros persistentes; es solo un ejemplo demo.
 
+## Aportación de David Ávila Sánchez
+   - Nombre: David Ávila Sánchez
+   - Usuario GitHub: DavidAvilaSanchez
+   - Rol: Diseñador
+   - Ramas trabajadas: feature-david
+   - Referencias: https://docs.github.com/es
+   
 ## Aportación de José Luis
 
 - Nombre completo: José Luis Ramírez Barrios
@@ -52,3 +59,5 @@ y pulsa el botón para ver un número aleatorio entre 1 y 10.
 - Rol dentro del equipo: Manager
 - Ramas en las que he trabajado: feature-JoseLuis
 - Referencias consultadas: https://docs.github.com/es
+
+Desarrollado por: **José Luis, Ángeles y David**
