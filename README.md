@@ -52,3 +52,20 @@ y pulsa el botón para ver un número aleatorio entre 1 y 10.
 - Rol dentro del equipo: Diseñador
 - Ramas en las que he trabajado: feture-Angeles
 - Referencias consultadas: https://github.com/topics/documentacion 
+
+## Aportación de David Ávila Sánchez
+   - Nombre: David Ávila Sánchez
+   - Usuario GitHub: DavidAvilaSanchez
+   - Rol: Diseñador
+   - Ramas trabajadas: feature-david
+   - Referencias: https://docs.github.com/es
+   
+## Aportación de José Luis
+
+- Nombre completo: José Luis Ramírez Barrios
+- Usuario Github: JoseRamirezB
+- Rol dentro del equipo: Manager
+- Ramas en las que he trabajado: feature-JoseLuis
+- Referencias consultadas: https://docs.github.com/es
+
+Desarrollado por: **José Luis, Ángeles y David**
